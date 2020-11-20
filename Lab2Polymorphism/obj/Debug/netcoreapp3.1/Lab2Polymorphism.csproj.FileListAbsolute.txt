@@ -1,0 +1,11 @@
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab2Polymorphism/bin/Debug/netcoreapp3.1/Lab2Polymorphism.deps.json
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab2Polymorphism/bin/Debug/netcoreapp3.1/Lab2Polymorphism.runtimeconfig.json
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab2Polymorphism/bin/Debug/netcoreapp3.1/Lab2Polymorphism.runtimeconfig.dev.json
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab2Polymorphism/bin/Debug/netcoreapp3.1/Lab2Polymorphism.dll
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab2Polymorphism/bin/Debug/netcoreapp3.1/Lab2Polymorphism.pdb
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab2Polymorphism/obj/Debug/netcoreapp3.1/Lab2Polymorphism.csprojAssemblyReference.cache
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab2Polymorphism/obj/Debug/netcoreapp3.1/Lab2Polymorphism.AssemblyInfoInputs.cache
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab2Polymorphism/obj/Debug/netcoreapp3.1/Lab2Polymorphism.AssemblyInfo.cs
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab2Polymorphism/obj/Debug/netcoreapp3.1/Lab2Polymorphism.dll
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab2Polymorphism/obj/Debug/netcoreapp3.1/Lab2Polymorphism.pdb
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab2Polymorphism/obj/Debug/netcoreapp3.1/Lab2Polymorphism.genruntimeconfig.cache

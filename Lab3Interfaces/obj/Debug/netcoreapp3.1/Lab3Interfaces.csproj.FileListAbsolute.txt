@@ -1,0 +1,11 @@
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab3Interfaces/obj/Debug/netcoreapp3.1/Lab3Interfaces.csprojAssemblyReference.cache
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab3Interfaces/obj/Debug/netcoreapp3.1/Lab3Interfaces.AssemblyInfoInputs.cache
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab3Interfaces/obj/Debug/netcoreapp3.1/Lab3Interfaces.AssemblyInfo.cs
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab3Interfaces/bin/Debug/netcoreapp3.1/Lab3Interfaces.deps.json
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab3Interfaces/bin/Debug/netcoreapp3.1/Lab3Interfaces.runtimeconfig.json
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab3Interfaces/bin/Debug/netcoreapp3.1/Lab3Interfaces.runtimeconfig.dev.json
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab3Interfaces/bin/Debug/netcoreapp3.1/Lab3Interfaces.dll
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab3Interfaces/bin/Debug/netcoreapp3.1/Lab3Interfaces.pdb
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab3Interfaces/obj/Debug/netcoreapp3.1/Lab3Interfaces.dll
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab3Interfaces/obj/Debug/netcoreapp3.1/Lab3Interfaces.pdb
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab3Interfaces/obj/Debug/netcoreapp3.1/Lab3Interfaces.genruntimeconfig.cache

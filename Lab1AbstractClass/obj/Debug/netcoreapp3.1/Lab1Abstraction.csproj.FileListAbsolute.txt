@@ -1,0 +1,11 @@
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab1AbstractClass/bin/Debug/netcoreapp3.1/Lab1Abstraction.deps.json
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab1AbstractClass/bin/Debug/netcoreapp3.1/Lab1Abstraction.runtimeconfig.json
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab1AbstractClass/bin/Debug/netcoreapp3.1/Lab1Abstraction.runtimeconfig.dev.json
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab1AbstractClass/bin/Debug/netcoreapp3.1/Lab1Abstraction.dll
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab1AbstractClass/bin/Debug/netcoreapp3.1/Lab1Abstraction.pdb
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab1AbstractClass/obj/Debug/netcoreapp3.1/Lab1Abstraction.AssemblyInfoInputs.cache
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab1AbstractClass/obj/Debug/netcoreapp3.1/Lab1Abstraction.AssemblyInfo.cs
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab1AbstractClass/obj/Debug/netcoreapp3.1/Lab1Abstraction.dll
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab1AbstractClass/obj/Debug/netcoreapp3.1/Lab1Abstraction.pdb
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab1AbstractClass/obj/Debug/netcoreapp3.1/Lab1Abstraction.genruntimeconfig.cache
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab1AbstractClass/obj/Debug/netcoreapp3.1/Lab1Abstraction.csprojAssemblyReference.cache

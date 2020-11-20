@@ -1,0 +1,11 @@
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab5EnumsAndStructs/bin/Debug/netcoreapp3.1/Lab5EnumsAndStructs.deps.json
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab5EnumsAndStructs/bin/Debug/netcoreapp3.1/Lab5EnumsAndStructs.runtimeconfig.json
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab5EnumsAndStructs/bin/Debug/netcoreapp3.1/Lab5EnumsAndStructs.runtimeconfig.dev.json
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab5EnumsAndStructs/bin/Debug/netcoreapp3.1/Lab5EnumsAndStructs.dll
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab5EnumsAndStructs/bin/Debug/netcoreapp3.1/Lab5EnumsAndStructs.pdb
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab5EnumsAndStructs/obj/Debug/netcoreapp3.1/Lab5EnumsAndStructs.csprojAssemblyReference.cache
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab5EnumsAndStructs/obj/Debug/netcoreapp3.1/Lab5EnumsAndStructs.AssemblyInfoInputs.cache
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab5EnumsAndStructs/obj/Debug/netcoreapp3.1/Lab5EnumsAndStructs.AssemblyInfo.cs
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab5EnumsAndStructs/obj/Debug/netcoreapp3.1/Lab5EnumsAndStructs.dll
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab5EnumsAndStructs/obj/Debug/netcoreapp3.1/Lab5EnumsAndStructs.pdb
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab5EnumsAndStructs/obj/Debug/netcoreapp3.1/Lab5EnumsAndStructs.genruntimeconfig.cache

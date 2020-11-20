@@ -1,0 +1,11 @@
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab6Delegates/bin/Debug/netcoreapp3.1/Lab6Delegates.deps.json
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab6Delegates/bin/Debug/netcoreapp3.1/Lab6Delegates.runtimeconfig.json
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab6Delegates/bin/Debug/netcoreapp3.1/Lab6Delegates.runtimeconfig.dev.json
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab6Delegates/bin/Debug/netcoreapp3.1/Lab6Delegates.dll
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab6Delegates/bin/Debug/netcoreapp3.1/Lab6Delegates.pdb
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab6Delegates/obj/Debug/netcoreapp3.1/Lab6Delegates.csprojAssemblyReference.cache
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab6Delegates/obj/Debug/netcoreapp3.1/Lab6Delegates.AssemblyInfoInputs.cache
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab6Delegates/obj/Debug/netcoreapp3.1/Lab6Delegates.AssemblyInfo.cs
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab6Delegates/obj/Debug/netcoreapp3.1/Lab6Delegates.dll
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab6Delegates/obj/Debug/netcoreapp3.1/Lab6Delegates.pdb
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LabWork/Lab6Delegates/obj/Debug/netcoreapp3.1/Lab6Delegates.genruntimeconfig.cache

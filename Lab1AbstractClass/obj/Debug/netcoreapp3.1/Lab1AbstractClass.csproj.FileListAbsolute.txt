@@ -1,0 +1,11 @@
+/Users/michaelsantos/Projects/Lab1AbstractClass/Lab1AbstractClass/obj/Debug/netcoreapp3.1/Lab1AbstractClass.csprojAssemblyReference.cache
+/Users/michaelsantos/Projects/Lab1AbstractClass/Lab1AbstractClass/obj/Debug/netcoreapp3.1/Lab1AbstractClass.AssemblyInfoInputs.cache
+/Users/michaelsantos/Projects/Lab1AbstractClass/Lab1AbstractClass/obj/Debug/netcoreapp3.1/Lab1AbstractClass.AssemblyInfo.cs
+/Users/michaelsantos/Projects/Lab1AbstractClass/Lab1AbstractClass/bin/Debug/netcoreapp3.1/Lab1AbstractClass.deps.json
+/Users/michaelsantos/Projects/Lab1AbstractClass/Lab1AbstractClass/bin/Debug/netcoreapp3.1/Lab1AbstractClass.runtimeconfig.json
+/Users/michaelsantos/Projects/Lab1AbstractClass/Lab1AbstractClass/bin/Debug/netcoreapp3.1/Lab1AbstractClass.runtimeconfig.dev.json
+/Users/michaelsantos/Projects/Lab1AbstractClass/Lab1AbstractClass/bin/Debug/netcoreapp3.1/Lab1AbstractClass.dll
+/Users/michaelsantos/Projects/Lab1AbstractClass/Lab1AbstractClass/bin/Debug/netcoreapp3.1/Lab1AbstractClass.pdb
+/Users/michaelsantos/Projects/Lab1AbstractClass/Lab1AbstractClass/obj/Debug/netcoreapp3.1/Lab1AbstractClass.dll
+/Users/michaelsantos/Projects/Lab1AbstractClass/Lab1AbstractClass/obj/Debug/netcoreapp3.1/Lab1AbstractClass.pdb
+/Users/michaelsantos/Projects/Lab1AbstractClass/Lab1AbstractClass/obj/Debug/netcoreapp3.1/Lab1AbstractClass.genruntimeconfig.cache
