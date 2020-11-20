@@ -1,0 +1,11 @@
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LectureCodeFollowThrough/EAD104/EAD104/bin/Debug/netcoreapp3.1/EAD104.deps.json
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LectureCodeFollowThrough/EAD104/EAD104/bin/Debug/netcoreapp3.1/EAD104.runtimeconfig.json
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LectureCodeFollowThrough/EAD104/EAD104/bin/Debug/netcoreapp3.1/EAD104.runtimeconfig.dev.json
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LectureCodeFollowThrough/EAD104/EAD104/bin/Debug/netcoreapp3.1/EAD104.dll
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LectureCodeFollowThrough/EAD104/EAD104/bin/Debug/netcoreapp3.1/EAD104.pdb
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LectureCodeFollowThrough/EAD104/EAD104/obj/Debug/netcoreapp3.1/EAD104.csprojAssemblyReference.cache
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LectureCodeFollowThrough/EAD104/EAD104/obj/Debug/netcoreapp3.1/EAD104.AssemblyInfoInputs.cache
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LectureCodeFollowThrough/EAD104/EAD104/obj/Debug/netcoreapp3.1/EAD104.AssemblyInfo.cs
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LectureCodeFollowThrough/EAD104/EAD104/obj/Debug/netcoreapp3.1/EAD104.dll
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LectureCodeFollowThrough/EAD104/EAD104/obj/Debug/netcoreapp3.1/EAD104.pdb
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LectureCodeFollowThrough/EAD104/EAD104/obj/Debug/netcoreapp3.1/EAD104.genruntimeconfig.cache

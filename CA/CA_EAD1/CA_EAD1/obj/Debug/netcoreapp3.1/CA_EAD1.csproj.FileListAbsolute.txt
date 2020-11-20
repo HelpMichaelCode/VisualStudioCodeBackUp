@@ -1,0 +1,11 @@
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/CA/CA_EAD1/CA_EAD1/bin/Debug/netcoreapp3.1/CA_EAD1.deps.json
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/CA/CA_EAD1/CA_EAD1/bin/Debug/netcoreapp3.1/CA_EAD1.runtimeconfig.json
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/CA/CA_EAD1/CA_EAD1/bin/Debug/netcoreapp3.1/CA_EAD1.runtimeconfig.dev.json
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/CA/CA_EAD1/CA_EAD1/bin/Debug/netcoreapp3.1/CA_EAD1.dll
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/CA/CA_EAD1/CA_EAD1/bin/Debug/netcoreapp3.1/CA_EAD1.pdb
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/CA/CA_EAD1/CA_EAD1/obj/Debug/netcoreapp3.1/CA_EAD1.csprojAssemblyReference.cache
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/CA/CA_EAD1/CA_EAD1/obj/Debug/netcoreapp3.1/CA_EAD1.AssemblyInfoInputs.cache
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/CA/CA_EAD1/CA_EAD1/obj/Debug/netcoreapp3.1/CA_EAD1.AssemblyInfo.cs
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/CA/CA_EAD1/CA_EAD1/obj/Debug/netcoreapp3.1/CA_EAD1.dll
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/CA/CA_EAD1/CA_EAD1/obj/Debug/netcoreapp3.1/CA_EAD1.pdb
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/CA/CA_EAD1/CA_EAD1/obj/Debug/netcoreapp3.1/CA_EAD1.genruntimeconfig.cache

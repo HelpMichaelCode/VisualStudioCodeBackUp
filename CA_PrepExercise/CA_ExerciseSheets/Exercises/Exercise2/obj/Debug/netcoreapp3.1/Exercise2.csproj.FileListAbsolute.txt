@@ -1,0 +1,11 @@
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/CA_PrepExercise/CA_ExerciseSheets/Exercises/Exercise2/bin/Debug/netcoreapp3.1/Exercise2.deps.json
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/CA_PrepExercise/CA_ExerciseSheets/Exercises/Exercise2/bin/Debug/netcoreapp3.1/Exercise2.runtimeconfig.json
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/CA_PrepExercise/CA_ExerciseSheets/Exercises/Exercise2/bin/Debug/netcoreapp3.1/Exercise2.runtimeconfig.dev.json
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/CA_PrepExercise/CA_ExerciseSheets/Exercises/Exercise2/bin/Debug/netcoreapp3.1/Exercise2.dll
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/CA_PrepExercise/CA_ExerciseSheets/Exercises/Exercise2/bin/Debug/netcoreapp3.1/Exercise2.pdb
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/CA_PrepExercise/CA_ExerciseSheets/Exercises/Exercise2/obj/Debug/netcoreapp3.1/Exercise2.csprojAssemblyReference.cache
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/CA_PrepExercise/CA_ExerciseSheets/Exercises/Exercise2/obj/Debug/netcoreapp3.1/Exercise2.AssemblyInfoInputs.cache
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/CA_PrepExercise/CA_ExerciseSheets/Exercises/Exercise2/obj/Debug/netcoreapp3.1/Exercise2.AssemblyInfo.cs
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/CA_PrepExercise/CA_ExerciseSheets/Exercises/Exercise2/obj/Debug/netcoreapp3.1/Exercise2.dll
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/CA_PrepExercise/CA_ExerciseSheets/Exercises/Exercise2/obj/Debug/netcoreapp3.1/Exercise2.pdb
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/CA_PrepExercise/CA_ExerciseSheets/Exercises/Exercise2/obj/Debug/netcoreapp3.1/Exercise2.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LectureCodeFollowThrough/EAD1_2/EAD1_2/bin/Debug/netcoreapp3.1/EAD1_2.deps.json
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LectureCodeFollowThrough/EAD1_2/EAD1_2/bin/Debug/netcoreapp3.1/EAD1_2.runtimeconfig.json
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LectureCodeFollowThrough/EAD1_2/EAD1_2/bin/Debug/netcoreapp3.1/EAD1_2.runtimeconfig.dev.json
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LectureCodeFollowThrough/EAD1_2/EAD1_2/bin/Debug/netcoreapp3.1/EAD1_2.dll
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LectureCodeFollowThrough/EAD1_2/EAD1_2/bin/Debug/netcoreapp3.1/EAD1_2.pdb
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LectureCodeFollowThrough/EAD1_2/EAD1_2/obj/Debug/netcoreapp3.1/EAD1_2.csprojAssemblyReference.cache
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LectureCodeFollowThrough/EAD1_2/EAD1_2/obj/Debug/netcoreapp3.1/EAD1_2.AssemblyInfoInputs.cache
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LectureCodeFollowThrough/EAD1_2/EAD1_2/obj/Debug/netcoreapp3.1/EAD1_2.AssemblyInfo.cs
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LectureCodeFollowThrough/EAD1_2/EAD1_2/obj/Debug/netcoreapp3.1/EAD1_2.dll
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LectureCodeFollowThrough/EAD1_2/EAD1_2/obj/Debug/netcoreapp3.1/EAD1_2.pdb
+/Users/michaelsantos/Documents/EnterpriseApplicationsDevelopment1/LectureCodeFollowThrough/EAD1_2/EAD1_2/obj/Debug/netcoreapp3.1/EAD1_2.genruntimeconfig.cache

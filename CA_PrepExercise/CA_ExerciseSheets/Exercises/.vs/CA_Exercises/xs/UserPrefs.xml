@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{53E0E0C2-109C-46DC-95B0-4DA4346890D8}|Default">
+  <MonoDevelop.Ide.ItemProperties.Exercise3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Exrcise1Again PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Exercise2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Exercise3/Playlist.cs">
+    <Files>
+      <File FileName="Exercise1/BankAccount.cs" Line="31" Column="25" />
+      <File FileName="Exercise1/CurrentAccount.cs" />
+      <File FileName="Exercise1/AccountTransaction.cs" />
+      <File FileName="Exercise2/Program.cs" />
+      <File FileName="Exercise2/ToDoNote.cs" />
+      <File FileName="Exercise2/SerialisedXML.cs" />
+      <File FileName="Exercise1/Program.cs" />
+      <File FileName="Exercise2/ToDoList.cs" />
+      <File FileName="Exercise3/Program.cs" />
+      <File FileName="Exercise3/MediaFile.cs" />
+      <File FileName="Exercise3/MusicFile.cs" />
+      <File FileName="Exercise3/Playlist.cs" Line="3" Column="19" />
+      <File FileName="Exrcise1Again/BankAccount.cs" />
+      <File FileName="Exrcise1Again/AccountTransaction.cs" />
+      <File FileName="Exrcise1Again/CurrentAccount.cs" />
+      <File FileName="Exrcise1Again/Program.cs" />
+      <File FileName="Exercise2Again/Program.cs" />
+      <File FileName="Exercise2Again/SerialisedXML.cs" />
+      <File FileName="Exercise2Again/ToDoList.cs" />
+      <File FileName="Exercise2Again/ToDoNote.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CA_Exercises" expanded="True">
+            <Node name="Exercise3" expanded="True">
+              <Node name="Playlist.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Exercise1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Exercise2Again PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

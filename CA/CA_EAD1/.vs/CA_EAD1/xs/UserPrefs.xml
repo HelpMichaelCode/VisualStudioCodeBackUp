@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{34BDCDB9-9569-4228-BBDA-C067FD3E96D5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CA_EAD1/WeatherHub.cs">
+    <Files>
+      <File FileName="CA_EAD1/Program.cs" Line="34" Column="38" />
+      <File FileName="CA_EAD1/DeviceReading.cs" Line="17" Column="58" />
+      <File FileName="CA_EAD1/HygrometerReading.cs" Line="70" Column="16" NotebookId="1" />
+      <File FileName="CA_EAD1/WeatherHub.cs" Line="31" Column="72" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CA_EAD1" expanded="True">
+            <Node name="CA_EAD1" expanded="True">
+              <Node name="WeatherHub.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CA__EAD1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
